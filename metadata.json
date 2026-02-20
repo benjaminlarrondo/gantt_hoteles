@@ -1,0 +1,5 @@
+{
+  "name": "gantt remodelacion hoteles clat",
+  "description": "Visualizador de diagramas de Gantt con gestión de feriados, agrupación por centros y análisis de interferencias mediante IA.",
+  "requestFramePermissions": []
+}
